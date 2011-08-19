@@ -1,0 +1,11 @@
+C:\MongoTesting\MongoTut1\MongoTut1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\MongoTesting\MongoTut1\MongoTut1\bin\Debug\MongoTut1.exe
+C:\MongoTesting\MongoTut1\MongoTut1\bin\Debug\MongoTut1.pdb
+C:\MongoTesting\MongoTut1\MongoTut1\bin\Debug\MongoDB.Bson.dll
+C:\MongoTesting\MongoTut1\MongoTut1\bin\Debug\MongoDB.Driver.dll
+C:\MongoTesting\MongoTut1\MongoTut1\bin\Debug\MongoDB.Bson.pdb
+C:\MongoTesting\MongoTut1\MongoTut1\bin\Debug\MongoDB.Bson.xml
+C:\MongoTesting\MongoTut1\MongoTut1\bin\Debug\MongoDB.Driver.pdb
+C:\MongoTesting\MongoTut1\MongoTut1\bin\Debug\MongoDB.Driver.xml
+C:\MongoTesting\MongoTut1\MongoTut1\obj\x86\Debug\MongoTut1.exe
+C:\MongoTesting\MongoTut1\MongoTut1\obj\x86\Debug\MongoTut1.pdb
